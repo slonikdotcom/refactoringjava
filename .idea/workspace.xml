@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e10627b-4d8e-4451-809a-e46d45af9224" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3r.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/GildedRose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/GildedRoseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/TexttestFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/GildedRose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GildedRose.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TexttestFixture.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.GildedRoseTest.executor": "Run",
     "Repository.Attach.Annotations": "false",
@@ -75,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732215276625</updated>
-      <workItem from="1732215277470" duration="618000" />
+      <workItem from="1732215277470" duration="2372000" />
     </task>
     <servers />
   </component>
